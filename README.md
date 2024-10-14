@@ -26,7 +26,7 @@ Example:
 A class Invoice should only handle invoice-related operations. If you need to print or email an invoice, that responsibility should be handled by another class like InvoicePrinter or InvoiceEmailer.
 
 A class should have one and only one reason to change.
-
+```
 // Violating SRP
 class Invoice {
   generateInvoice() {
@@ -60,3 +60,4 @@ class InvoiceEmailer {
     // Emailing logic
   }
 }
+```
