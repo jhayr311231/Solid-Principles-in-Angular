@@ -1,7 +1,7 @@
 # Solid-Principles-in-Angular
 
 
-SOLID principles are a set of guidelines for writing clean, maintainable, and reusable code. These principles were introduced by Robert C. Martin in his book “Agile Software Development, Principles, Patterns, and Practices.”
+SOLID principles are a set of guidelines for writing clean, maintainable, and reusable code. These principles were introduced by [Robert C. Martin](https://cleancoders.com/episode/clean-code-episode-8) in his book “[Agile Software Development](https://www.amazon.com/dp/B08X8ZXT15?ref_=cm_sw_r_cp_ud_dp_WH9232YZF4D1TMRT5BMV), [Principles](https://www.amazon.com/dp/B08X8ZXT15?ref_=cm_sw_r_cp_ud_dp_WH9232YZF4D1TMRT5BMV), [Patterns](https://www.amazon.com/dp/B08X8ZXT15?ref_=cm_sw_r_cp_ud_dp_WH9232YZF4D1TMRT5BMV), and [Practices](https://www.amazon.com/dp/B08X8ZXT15?ref_=cm_sw_r_cp_ud_dp_WH9232YZF4D1TMRT5BMV.)”
 
 ## The acronym SOLID stands for:
 
