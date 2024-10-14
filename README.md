@@ -307,6 +307,6 @@ Start refactoring your Angular code today with these principles in mind to impro
 
 References: [Applying SOLID Principles to Angular with examples](https://sheldonrcohen.medium.com/applying-solid-principles-to-angular-with-examples-fec460ffa541)
 
-
+Hashnode Link:[Activity 25: SOLID PRINCIPLES in Angular ](https://jhayr1231.hashnode.dev/activity-25-solid-principles-in-angular)
 
 
